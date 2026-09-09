@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What days am I allowed to work from home?",
+    "ground_truth": "Employees are allowed to work from home on Fridays."
+  },
+  {
+    "question": "How much revenue did the company make in 2026, and what was the percentage increase?",
+    "ground_truth": "Total revenue for 2026 was $5 million, which is a 20% increase from the previous year."
+  },
+  {
+    "question": "Who do I contact for a new laptop?",
+    "ground_truth": "You should email IT support and include your employee ID."
+  }
+]
